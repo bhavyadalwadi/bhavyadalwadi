@@ -18,7 +18,7 @@ I’m especially interested in:
 ### [debt-crusher](https://github.com/bhavyadalwadi/debt-crusher)
 Local-first debt payoff workspace for managing cards, cash, priorities, and progress with explainable recommendation logic.
 
-### [ticker-pm-copilot](https://github.com/bhavyadalwadi/WealthPilot)
+### [WealthPilot](https://github.com/bhavyadalwadi/WealthPilot)
 Selector-first stock and portfolio analysis app combining deterministic scoring with PM-style AI memo generation.
 
 ### [HA-Home](https://github.com/bhavyadalwadi/HA-Home)
@@ -27,10 +27,10 @@ HACS-ready Home Assistant dashboard suite with custom Lovelace cards for room in
 ### [Local-LLM](https://github.com/bhavyadalwadi/localLLM)
 Self-hosted local AI node for Open WebUI + Ollama with operator docs, model routing, and deployment workflows.
 
-### [geo-coupens](https://github.com/bhavyadalwadi/price-pin)
+### [price-pin](https://github.com/bhavyadalwadi/price-pin)
 Map-first mobile/web app for finding nearby product availability with price confidence and community moderation.
 
-### [kadi-tiri-game](https://github.com/bhavyadalwadi/kadi-tiri)
+### [kadi-tiri](https://github.com/bhavyadalwadi/kadi-tiri)
 Web-based multiplayer trick-taking card game with bidding, partner selection, trick play, and server-owned room state.
 
 ## Current Focus
